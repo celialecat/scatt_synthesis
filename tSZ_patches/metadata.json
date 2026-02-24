@@ -1,0 +1,19 @@
+{
+  "input_path": "/rds/rds-clecat/generative_modelling/ymap_all_2048_190125.npy",
+  "mode": "TSZ",
+  "out_dir": "/rds/rds-clecat/generative_modelling/tSZ_run1",
+  "nside_out": 2048,
+  "beam_fwhm_arcmin": 1.4,
+  "patch_size_deg": 10.0,
+  "pixel_size": 512,
+  "pix_res_deg_approx": 0.028629053431811716,
+  "patch_pix_before_resize": 349,
+  "grid_per_super": 5,
+  "total_requested": 300,
+  "ordering_in": "RING",
+  "save_format": "npy",
+  "same_dir": true,
+  "conversion_factor_uK_to_Jy_sr_inv_applied": null,
+  "cib_freq_ghz_for_conversion": null,
+  "total_saved": 300
+}
